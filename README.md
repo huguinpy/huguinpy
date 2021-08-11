@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @huguinpy
+- 👋 Hi, I’m Hugo
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on (Sorry, I can't collaborate on anything now)
